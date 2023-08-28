@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "116640941094",
+    "project_id": "flutter-whatsapp-49bdc",
+    "storage_bucket": "flutter-whatsapp-49bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116640941094:android:506cef10f1c0f1a8bb12e7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116640941094-s77vr0ohe050p3olqds5njbvp85s86rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHefBXqPCZKvFjCiwdxs8k_8t1kXK6ah0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116640941094-s77vr0ohe050p3olqds5njbvp85s86rb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116640941094-lfnsmju0l6ubvla20g5ambkf17pr0sfm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116640941094:android:dd616067d7523bcebb12e7",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116640941094-s77vr0ohe050p3olqds5njbvp85s86rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHefBXqPCZKvFjCiwdxs8k_8t1kXK6ah0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116640941094-s77vr0ohe050p3olqds5njbvp85s86rb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116640941094-lfnsmju0l6ubvla20g5ambkf17pr0sfm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
