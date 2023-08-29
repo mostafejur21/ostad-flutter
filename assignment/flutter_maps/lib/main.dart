@@ -87,7 +87,6 @@ class _MapScreenState extends State<MapScreen> {
             markerId: const MarkerId('current_location'),
             position: _currentLocation,
             onTap: () {
-              // Display an info window when marker is tapped
               showDialog(
                 context: context,
                 builder: (context) {
