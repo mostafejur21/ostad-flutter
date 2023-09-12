@@ -124,6 +124,8 @@ class _MapScreenState extends State<MapScreen> {
               markers: {
                 Marker(
                   markerId: const MarkerId('current_location'),
+                  icon: BitmapDescriptor.defaultMarkerWithHue(
+                      BitmapDescriptor.hueBlue),
                   position: LatLng(
                     currentLocation!.latitude!,
                     currentLocation!.longitude!,
@@ -135,6 +137,8 @@ class _MapScreenState extends State<MapScreen> {
                 ),
                 Marker(
                   markerId: const MarkerId('source_location'),
+                  icon: BitmapDescriptor.defaultMarkerWithHue(
+                      BitmapDescriptor.hueGreen),
                   position: _sourceLocation,
                   infoWindow: InfoWindow(
                       title: 'source location',
